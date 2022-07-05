@@ -9,6 +9,6 @@ class Solution {
             else
                 map.put(nums[i],i);
         }
-        return new int[]{0,0};
+        return null; // returning null is a better approach then a new list if not found
     }
 }
