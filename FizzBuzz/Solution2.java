@@ -1,5 +1,5 @@
 /* Could be a fast alternative. Creats groups of 15. */
-class Solution {
+class Solution2 {
     public List<String> fizzBuzz(int n) {
         List<String> output = new ArrayList<>(n);
         int i=1;
