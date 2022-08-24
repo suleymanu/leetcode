@@ -1,5 +1,5 @@
 /* First trial. No need to sort descending. */
-class Solution {
+class Solution2 {
     public int largestPerimeter(int[] nums) {
         int r = 0;
         Arrays.sort(nums);
