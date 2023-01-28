@@ -1,5 +1,5 @@
 /* Counting sort */
-class Solution {
+class Solution2 {
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
         int min = arr[0];
         int max = arr[0];
